@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ This\ class\ will\ determine\ the\ odds\ of\ 2\ people\ in\ the\ classroom\ having\ the\ same\ birthday\ and\ month.\r\n\r\n\ @Bianca\ Hernandez\r\n\ @version\ 1.1\r\n
+comment1.params=numOfPeople
+comment1.target=Person(int)
+numComments=2
